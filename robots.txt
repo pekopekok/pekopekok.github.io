@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://pekopekok.github.io/sitemapx.xml
